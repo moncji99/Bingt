@@ -1,0 +1,2 @@
+# Bingt
+Scrip termux
